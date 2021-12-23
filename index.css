@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+:root {
+  /* Primary colors */
+  --Soft-blue: hsl(215, 51%, 70%);
+  --cyan: hsl(178, 100%, 50%);
+
+  /* Neutral */
+  --dark-blue-main: hsl(217, 54%, 11%);
+  --dark-blue-card: hsl(216, 50%, 16%);
+  --dark-blue-line: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%);
+
+  /* Typography */
+  --primary-font: 'Outfit', sans-serif;
+}
+
+.attribution {
+  font-size: 14px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.main_container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.desktop-container {
+  width: 95vw;
+  height: 95vh;
+  background-color: var(--dark-blue-main);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nft-card {
+  width: 315px;
+  height: 520px;
+  background-color: var(--dark-blue-card);
+  border-radius: 4%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-image {
+  width: 270px;
+  height: 250px;
+  background-color: violet;
+  border-radius: 4%;
+}
+
+.img-card {
+  width: 270px;
+  height: 250px;
+  border-radius: 4%;
+}
+
+.description {
+  width: 270px;
+  height: 120px;
+  background-color: transparent;
+}
+
+.author {
+  width: 270px;
+  height: 100px;
+}
+
+h3,
+.paragraph-description,
+button,
+p {
+  font-family: var(--primary-font);
+}
+
+h3 {
+  color: var(--white);
+  font-weight: 600;
+}
+
+.paragraph-description {
+  font-size: 15px;
+  color: var(--Soft-blue);
+  font-weight: 300;
+}
+
+.ethereum-clock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+button {
+  background-color: var(--dark-blue-card);
+  border: none;
+}
+
+.btn-ethereum {
+  color: var(--cyan);
+}
+
+.btn-clock {
+  color: var(--Soft-blue);
+}
+
+hr {
+  color: var(--white);
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+}
+
+.author-img {
+  width: 50px;
+  height: 50px;
+}
