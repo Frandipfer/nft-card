@@ -29,6 +29,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
+/* Main container start*/
 .main_container {
   width: 100vw;
   height: 100vh;
@@ -37,6 +38,7 @@ body {
   align-items: center;
 }
 
+/* Desktop background container */
 .desktop-container {
   width: 95vw;
   height: 95vh;
@@ -46,6 +48,7 @@ body {
   align-items: center;
 }
 
+/* Card */
 .nft-card {
   width: 302px;
   height: 544px;
@@ -58,27 +61,25 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
 }
 
+/* Image container */
 .card-image {
   width: 260px;
   height: 272px;
   border-radius: 3%;
 }
 
+/* Image */
 .img-card {
   width: 260px;
   height: 270px;
   border-radius: 3%;
 }
 
+/* Description container*/
 .description {
   width: 260px;
   height: 163px;
   background-color: transparent;
-}
-
-.author {
-  width: 260px;
-  height: 100px;
 }
 
 h3,
@@ -106,6 +107,12 @@ h3 {
   justify-content: space-between;
 }
 
+/* Author container */
+.author {
+  width: 260px;
+  height: 100px;
+}
+
 button {
   background-color: var(--dark-blue-card);
   border: none;
@@ -116,16 +123,19 @@ button {
 
 .btn-ethereum {
   color: var(--cyan);
+  padding: 0px;
 }
 
 .btn-clock {
   color: var(--Soft-blue);
+  padding: 0px;
 }
 
 .img-c-e {
   padding-right: 5px;
 }
 
+/* card footer */
 hr {
   color: var(--white);
   padding: 12px 0px;
