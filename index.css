@@ -63,6 +63,7 @@ body {
 
 /* Image container */
 .card-image {
+  display: flex;
   width: 260px;
   height: 272px;
   border-radius: 3%;
@@ -70,9 +71,28 @@ body {
 
 /* Image */
 .img-card {
+  position: relative;
   width: 260px;
   height: 270px;
   border-radius: 3%;
+  z-index: 1;
+}
+
+.img-view {
+  position: absolute;
+  padding: 111px 106px 111px 105px;
+  background-color: rgba(0, 255, 255, 0.5);
+  border-radius: 3%;
+  z-index: 0;
+}
+
+.img-view:hover {
+  cursor: pointer;
+  z-index: 1;
+}
+
+.img-card:hover {
+  z-index: 0;
 }
 
 /* Description container*/
@@ -92,6 +112,11 @@ p {
 h3 {
   color: var(--white);
   font-weight: 600;
+}
+
+h3:hover {
+  color: var(--cyan);
+  cursor: pointer;
 }
 
 .paragraph-description {
@@ -166,4 +191,9 @@ hr {
   color: var(--white);
   text-decoration: none;
   font-size: 13px;
+}
+
+.author-name:hover {
+  color: var(--cyan);
+  cursor: pointer;
 }
