@@ -197,3 +197,35 @@ hr {
   color: var(--cyan);
   cursor: pointer;
 }
+
+.attribution {
+  margin-top: 10px;
+  font-family: var(--primary-font);
+}
+
+.attribution > a {
+  text-decoration: none;
+}
+
+@media (max-width: 320px) {
+  .nft-card {
+    width: 265px;
+    height: 544px;
+  }
+
+  .img-card {
+    width: 240px;
+    height: 272px;
+  }
+
+  .img-view:hover {
+    width: 240px;
+    height: 272px;
+  }
+}
+
+@media (max-width: 360px) {
+  .attribution {
+    padding: 5px;
+  }
+}
