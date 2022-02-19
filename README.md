@@ -28,6 +28,7 @@ Users should be able to:
 ### Screenshot
 
 Screenshot - Galaxy S8
+<img src="./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png" width="100" height="200">
 ![](<./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png>)
 
 Screenshot - iPhone 12 Pro
