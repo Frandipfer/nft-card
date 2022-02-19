@@ -28,13 +28,13 @@ Users should be able to:
 ### Screenshot
 
 Screenshot - Galaxy S8
-![](./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png)
+![](<./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png>)
 
 Screenshot - iPhone 12 Pro
-![](./Screenshots/Frontend_mentor_nft-card(iPhone 12 Pro).png)
+![](<./Screenshots/Frontend_mentor_nft-card(iPhone 12 Pro).png>)
 
 Screenshot - iPhone XR
-![](./Screenshots/Frontend_mentor_nft-card(iPhone XR).png)
+![](<./Screenshots/Frontend_mentor_nft-card(iPhone XR).png>)
 
 Screenshot - Laptop
 ![](<./Screenshots/Frontend_mentor_nft-card(Laptop).png>)
