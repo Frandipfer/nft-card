@@ -28,21 +28,21 @@ Users should be able to:
 ### Screenshot
 
 Screenshot - Galaxy S8
-![](./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png)
+![](./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png>)
 
 Screenshot - iPhone 12 Pro
-![](./Screenshots/Frontend_mentor_nft-card(iPhone 12 Pro).png)
+![](./Screenshots/Frontend_mentor_nft-card(iPhone 12 Pro).png>)
 
 Screenshot - iPhone XR
-![](./Screenshots/Frontend_mentor_nft-card(iPhone XR).png)
+![](./Screenshots/Frontend_mentor_nft-card(iPhone XR).png>)
 
 Screenshot - Laptop
 ![](<./Screenshots/Frontend_mentor_nft-card(Laptop).png>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fdippiton/nft-card)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [nft-card](https://github.com/fdippiton/nft-card)
+- Live Site URL: []()
 
 ## My process
 
@@ -60,7 +60,7 @@ Screenshot - Laptop
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fdippiton)
-- Twitter - [@yourusername](https://www.twitter.com/f_dippiton)
+- Frontend Mentor - [@fdippiton](https://www.frontendmentor.io/profile/fdippiton)
+- Twitter - [@f_dippiton](https://www.twitter.com/f_dippiton)
 
 ## Acknowledgments
