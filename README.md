@@ -27,6 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
+<<<<<<< HEAD
 #### Screenshot - Galaxy S8
 <img src="./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png" width="300" height="600">
 
