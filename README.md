@@ -53,6 +53,7 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
+I had the opportunity to implement my knowledge of html, css and flexbox, in such a way that it can greatly improve my skills in these tools.
 
 ### Continued development
 
