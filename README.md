@@ -27,25 +27,22 @@ Users should be able to:
 
 ### Screenshot
 
-Screenshot - Galaxy S8
-<br/>
+#### Screenshot - Galaxy S8
 <img src="./Screenshots/Frontend_mentor_nft-card(Galaxy S8).png" width="300" height="600">
 
-Screenshot - iPhone 12 Pro
-<br/>
+#### Screenshot - iPhone 12 Pro
 <img src="./Screenshots/Frontend_mentor_nft-card(iPhone 12 Pro).png" width="300" height="600">
 
-Screenshot - iPhone XR
-<br/>
+#### Screenshot - iPhone XR
 <img src="./Screenshots/Frontend_mentor_nft-card(iPhone XR).png" width="300" height="600">
 
-Screenshot - Laptop
+#### Screenshot - Laptop
 ![](<./Screenshots/Frontend_mentor_nft-card(Laptop).png>)
 
 ### Links
 
 - Solution URL: [nft-card](https://github.com/fdippiton/nft-card)
-- Live Site URL: []()
+- Live Site URL: [nft-card](https://fdippiton.github.io/nft-card/)
 
 ## My process
 
